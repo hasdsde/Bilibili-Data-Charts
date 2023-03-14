@@ -1,0 +1,1 @@
+import{ap as e,ac as t,ai as c,aq as a}from"./index.8befc074.js";const s={},n={class:"q-pa-md fit row wrap justify-center items-center content-center"},o=a("img",{src:" http://127.0.0.1:6688/image/cloud.png",alt:""},null,-1),r=[o];function _(i,d){return t(),c("div",n,r)}var p=e(s,[["render",_]]);export{p as default};
